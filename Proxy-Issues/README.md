@@ -1,0 +1,1 @@
+CSharp psuedo-solution for downloading files without using the web browser control or a set proxy. Attempts to prompt for proxy settings if there is a proxy being used.
